@@ -1,4 +1,4 @@
-package events;
+package com.jonghyeon.eventrestapi.events;
 
 public enum EventStatus {
 
